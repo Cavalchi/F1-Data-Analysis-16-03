@@ -1,6 +1,6 @@
 # F1-Data-Analysis-16-03
 
-#Insights 
+## Insights 
 
 # Pneus e degradação: Quais pilotos administraram melhor os pneus? Quem teve que parar mais vezes?
 As três principais equipes – McLaren, Mercedes e Red Bull – demonstraram um excelente gerenciamento de pneus ao longo da corrida, especialmente em condições de pista molhada. A leitura estratégica do clima foi fundamental: ao perceberem que a pista secaria rapidamente, todas optaram por trocar para compostos de pista seca o quanto antes, garantindo aderência e performance.
